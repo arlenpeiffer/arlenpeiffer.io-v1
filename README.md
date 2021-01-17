@@ -1,4 +1,4 @@
-# arlepeiffer.io-v1
+# arlenpeiffer.io-v1
 
 first edition landing page for [`arlenpeiffer.io`](https://arlenpeiffer.io/)
 
